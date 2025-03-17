@@ -1,0 +1,10 @@
+faiss-cpu
+PyPdF2
+numpy
+nltk
+transformers
+re
+langchain
+langchain-community
+langchain_groq
+python-dotenv
